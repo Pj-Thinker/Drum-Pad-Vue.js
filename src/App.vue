@@ -33,6 +33,9 @@
         />
       </div>
     </section>
+    <a href="https://www.instagram.com/the.pendar/" target="_blank"
+      >Pendar | IG ❤</a
+    >
   </main>
 </template>
 
@@ -338,5 +341,13 @@ input[type='checkbox']:checked::before {
   content: 'S/1';
   left: 0.5rem;
   color: #f5f5f7;
+}
+
+a {
+  color: coral;
+  text-decoration: none;
+  margin-top: 1rem;
+  margin-bottom: -1rem;
+  font-size: 0.85rem;
 }
 </style>
